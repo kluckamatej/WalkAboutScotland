@@ -1,0 +1,100 @@
+
+
+
+#page-container {
+font-family: times-new-roman;
+    width: 940;
+ line-height: 150%;
+    margin: auto;
+	
+}
+
+#column1 {
+float: left;
+width: 240px;
+border-right: 1px solid grey;
+
+}
+
+#body{
+width: 50px;
+}
+
+#column2{
+text-align: left;
+float: right;
+width: 640px;
+font-size: 15px;
+border-right: 5px solid lightgrey;
+}
+
+
+#column3{
+text-align: left;
+float: right;
+width: 640px;
+font-size: 15px;
+border-right: 5px solid lightgrey;
+}
+
+h1{
+font-size: 150%;
+color: darkgreen;
+}
+
+#logo{
+background-color: white;
+}
+#logotext{
+
+color: green;
+}
+
+#list{
+font-family: arial;
+margin-top: 30px;
+font-size: 13px;
+border-top: 2px solid lightgrey;
+border-bottom: 2px solid lightgrey;
+}
+
+#bodyFpage {
+margin-right: 50px;
+}
+
+#bodypage {
+margin-right: 50px;
+}
+
+#footer {
+
+height: 50px;
+background-color: lightgrey;
+
+
+}
+
+
+h3{
+font-size: 100%;
+margin-left: 25px;
+padding: 12px;
+
+}
+
+h4{
+color: lightgreen;
+padding: 0px;
+}
+
+<style>
+ul li {
+ float: left;
+ border-top: 1px solid lightgrey; }
+ 
+li { margin-top: 10px; }
+li + li {
+ border-top: 1px solid lightgrey; } 
+ 
+</style>
+
